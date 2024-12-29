@@ -1,0 +1,42 @@
+{
+  "user1": {
+    "id": 1,
+    "username": "Иван",
+    "firstName": "Дитриевич",
+    "lastName": "Мазур",
+    "email": "111@gmail.com",
+    "password": "111",
+    "phone": "12345",
+    "userStatus": 0
+  },
+  "user2": {
+    "id": 2,
+    "username": "Петр",
+    "firstName": "Дитриевич",
+    "lastName": "Мазур",
+    "email": "111@gmail.com",
+    "password": "111",
+    "phone": "12345",
+    "userStatus": 0
+  },
+  "user3": {
+    "id": 3,
+    "username": "Роман",
+    "firstName": "Дитриевич",
+    "lastName": "Мазур",
+    "email": "111@gmail.com",
+    "password": "111",
+    "phone": "12345",
+    "userStatus": 0
+  },
+  "userPUT": {
+    "id": 4,
+    "username": "Николай",
+    "firstName": "Дитриевич",
+    "lastName": "Мазур",
+    "email": "111@gmail.com",
+    "password": "111",
+    "phone": "12345",
+    "userStatus": 0
+  }
+}
